@@ -1,2 +1,6 @@
 오픈 ai 사용법
 
+git 토큰 받아왔는데, 토큰 없이 push가 되네
+
+push 명령어 
+    git -u origin master
